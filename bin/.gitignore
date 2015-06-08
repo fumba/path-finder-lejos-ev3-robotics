@@ -1,1 +1,11 @@
 /PathFinder.class
+/BreadthFirstSearcher.class
+/Line.class
+/Node.class
+/QInterface.class
+/QLinked.class
+/RobotGraph.class
+/RobotGraphNode.class
+/SearchNode.class
+/Searcher.class
+/com/
